@@ -1,0 +1,50 @@
+- ESP32 CAM
+- OV2640 Camera Module
+- MicroSD card 4 gb (gatau yg mana yg bagus)
+- Maybe some jumper wires (kayaknya gabutuh)
+- FTDI programmer (i dunno... maybe FT232?)
+
+https://www.hackster.io/shubhamsantosh99/hand-gesture-detection-on-esp-cam-a176c6
+https://randomnerdtutorials.com/projects-esp32-cam/
+https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/
+https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/
+https://lastminuteengineers.com/getting-started-with-esp32-cam/
+https://www.youtube.com/watch?v=WQeoO7MI0Bs
+https://www.youtube.com/watch?v=xjuTEowOWvo	
+
+
+FT232
+http://shopee.co.id/FTDI-FT232RL-FT232-USB-TO-TTL-SERIAL-CONVERTER-ADAPTER-MODULE-FOR-ARDUINO-i.62956347.5609740839?sp_atk=79f931ef-05c2-4852-83f1-f9fbf2f3289a&xptdk=79f931ef-05c2-4852-83f1-f9fbf2f3289a
+
+tanyain: compatible sama semua jenis esp32cam yang dijual di toko ini enggak
+
+ESP32CAM + OV2640
+https://shopee.co.id/ESP32-CAM-MODULE-CAMERA-RHYX-2MP-ESP32-CAM-WIFI-BLUETOOTH-4.0-32BIT-i.62956347.3313361012?sp_atk=1dd5caef-1344-4115-a831-c780efbdbcd0&xptdk=1dd5caef-1344-4115-a831-c780efbdbcd0
+
+Note: tanyain beneran dapet ov2640 atau enggak
+
+MicroUSB cable
+https://shopee.co.id/KABEL-DATA-MICRO-USB-ARDUINO-MICRO-USB-ROBOTDYN-TYPE-A-MALE-30CM-i.62956347.6911263163?sp_atk=b49a3d03-55fe-4ff4-b954-475bcc7ba42c&xptdk=b49a3d03-55fe-4ff4-b954-475bcc7ba42c x
+
+tanyain: compatible di ft232 untuk esp32cam enggak
+
+Breadboard and jumper wires, if necessary
+https://shopee.co.id/KIT-PROTOTYPING-MB-102-JUMPER-KABEL-BREADBOARD-PAKET-PAPAN-PERCOBAAN-i.62956347.14491475352?sp_atk=e399cb53-6246-41b7-b172-3164ebad0e9b&xptdk=e399cb53-6246-41b7-b172-3164ebad0e9b -- FULL KIT but MB102 unused x
+
+https://shopee.co.id/PAKET-LENGKAP-KABEL-JUMPER-DUPONT-20CM-FOR-BREADBOARD-i.62956347.22510509800?sp_atk=a4b74514-796a-4675-b41e-c6d8856d3307&xptdk=a4b74514-796a-4675-b41e-c6d8856d3307
+https://shopee.co.id/BREADBOARD-MB-102-SOLDERLESS-830-830P-i.62956347.1063950427?sp_atk=62b9ef23-3eb8-4834-993d-7118ebde9edd&xptdk=62b9ef23-3eb8-4834-993d-7118ebde9edd
+
+MicroSD card 4gb
+https://shopee.co.id/memory-MMC-card-micro-sd-V-Gen-SanDisk-16gb-8gb-4Gb-2gb-1gb-original-copotan-i.2470631.14400670794?sp_atk=5ad12dae-14c2-4385-935a-277840b1996a&xptdk=5ad12dae-14c2-4385-935a-277840b1996a x
+
+
+16900
+96000 :(
+7000
+36900
+28000 (Harga termahal, minimal 11000)
+------------------------------------ +
+184000
+total, ongkir gatau
+
+
